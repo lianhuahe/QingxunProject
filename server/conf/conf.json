@@ -1,0 +1,8 @@
+{
+    "Host": "10.0.4.17",
+    "TcpPort": 7777,
+    "MsgChanLen":1024,
+    "MaxConn": 50000,
+    "WorkerPoolSize" : 16,
+    "WorkerTaskLen" : 1024
+}
